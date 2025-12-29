@@ -2,6 +2,24 @@
 A Encdyclopedia that is focuses only in the philipinne animals
  the back end work 
 
+
+
+
+
+
+
+
+
+======================================
+due to the lack of time yet the front end is not totally finish 
+
+
+
+
+
+
+
+
  try to access this endpoint
  My-backend
 /
@@ -64,5 +82,4 @@ A Encdyclopedia that is focuses only in the philipinne animals
 /js/{filename}
 /js/{folder}/{filename}
 /index
-======================================
-due to the lack of time yet the front end is not totally finish 
+
